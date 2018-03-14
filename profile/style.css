@@ -1,0 +1,65 @@
+body {
+  background-color: #f3f8f2;
+  font-family: 'Josefin Slab', serif;
+  color: black;
+  font-size: 15px;
+  line-height: 1em;
+
+}
+
+
+h1 {
+  color: #28536b;
+  font-family: 'Josefin Slab', serif;
+  font-size: 28px;
+  line-height: 0.2em;
+}
+
+h2 {
+  color: #93827f;
+  font-size: 20px;
+}
+
+h3 {
+
+  font-size:15px;
+  text-decoration: underline;
+}
+
+a {
+color: black;
+text-decoration: none;
+  }
+
+a:hover {
+  text-decoration: underline;
+}
+
+.title {
+margin: 10;
+}
+
+.container {
+ width: 500px;
+ margin: 10px auto;
+ background: #f3f8f2;
+}
+
+.card {
+  background: white;
+  margin-bottom: 20px;
+  border-radius: 2%;
+  box-shadow: 1px 1px 2px lightgrey;
+
+}
+
+.card h2 {
+  text-align: center;
+  padding-top: 20px;
+}
+
+.center {
+  text-align: center;
+}
+
+
